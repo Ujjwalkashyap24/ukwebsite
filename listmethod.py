@@ -1,0 +1,19 @@
+#sort
+l1 = [5, 8, 3, 9, 24, 4]
+#l1.sort()
+print(l1)
+#reverse
+#l1.reverse()
+print(l1)
+#append
+l1.append(35)
+print(l1)
+#insert
+l1.insert(3,777)
+print(l1)
+#pop
+l1.pop(4)
+print(l1)
+#remove
+l1.remove(24)
+print(l1)
